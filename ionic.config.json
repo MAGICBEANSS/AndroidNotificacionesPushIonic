@@ -1,0 +1,8 @@
+{
+  "name": "AndroidNotificacionesPushIonic",
+  "app_id": "9d0b8b6f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
